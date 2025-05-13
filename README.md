@@ -1,2 +1,6 @@
 # DL-project3
-Team 
+Team members:
+
+Yucheng Zhao, Zhiding Zhou, Airu Liu
+
+
