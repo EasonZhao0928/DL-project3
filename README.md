@@ -54,8 +54,13 @@ Max L∞ raw distance (PGD): 0.009160018526017666
 
 ## Reference
 
-Some implementation ideas were inspired by suggestions from coding LLMs, OpenAI's ChatGPT.
+[1] https://chat.openai.com, 2023. Accessed: May 2025.
 
+[2] Explaining and harnessing adversarial examples.
+
+[3] Transferability in machine learning: from phenomena to black-box attacks using adversarial samples.
+
+[4] Intriguing properties of neural networks.
 
 
 
