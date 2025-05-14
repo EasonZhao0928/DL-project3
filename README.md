@@ -50,3 +50,12 @@ Max L∞ raw distance (PGD): 0.009160018526017666
 
 ![task4_patch](task4_patch_grid_1.png)
 *Figure 4: Task4 Targeted Patch Attack*
+
+
+## Reference
+
+Some implementation ideas were inspired by suggestions from coding LLMs, OpenAI's ChatGPT.
+
+
+
+
